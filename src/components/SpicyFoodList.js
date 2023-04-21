@@ -21,6 +21,8 @@ function SpicyFoodList() {
       <ul>{foodList}</ul>
     </div>
   );
-}
+  }
+
+
 
 export default SpicyFoodList;
